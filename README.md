@@ -42,10 +42,14 @@
 <!-- Estatísticas do GitHub -->
 # 📊 Estatísticas
 
-<div style='text-align: right;'>
+<div style='text-align: center;'>
 
-![EnzoBustos GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact)](https://github.com/enzobustos/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact" />
+</a>
 
 </div>
 
