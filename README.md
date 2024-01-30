@@ -4,7 +4,7 @@
 </div>
 
 <!-- Banner Image -->
-![Banner](images\Eu-VanGogh-HighQuality.png)
+![Banner](images/Eu-VanGogh-HighQuality.png)
 
 <h1 style="text-align:center"> Hello World!  <br> Eu sou Enzo Bustos</h1>
 
