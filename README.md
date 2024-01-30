@@ -1,7 +1,7 @@
 <!-- Contador de Visitantes -->
-<p align="center"> 
-  ![Visitor Count](https://profile-counter.glitch.me/EnzoBustos/count.svg)
-</p>
+<div style="text-align : justify">
+    ![GitHub watchers](https://img.shields.io/github/watchers/EnzoBustos/EnzoBustos)
+</div>
 
 <!-- Banner Image -->
 ![Banner](https://your-image-url.com/banner-image.png)
@@ -41,11 +41,17 @@
 
 <!-- Estatísticas do GitHub -->
 # 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=radical&show_icons=true)
+
+<div style='text-align: right;'>
+
+![EnzoBustos GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact)](https://github.com/enzobustos/github-readme-stats)
+
+</div>
 
 <!-- Contribuições e Atividades -->
 # ⚙ Contribuições e Atividades
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario&bg_color=000000&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enzobustos&bg_color=000000&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
 <!-- Seção de Recados -->
 # 📬 Recados
