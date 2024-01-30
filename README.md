@@ -4,7 +4,13 @@
 </div>
 
 <!-- Banner Image -->
-![Banner](https://your-image-url.com/banner-image.png)
+![Banner](images\Eu-VanGogh-HighQuality.png)
+
+<h1 style="text-align:center"> Hello World!  <br> Eu sou Enzo Bustos</h1>
+
+<h2 style="text-align:center"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </h2>
+
+<h1 style="text-align:center"> Hello World! Eu sou o Enzo Bustos.</h1>
 
 <h1 align="center">Olá 👋, sou [Seu Nome]</h1>
 <h3 align="center">Um apaixonado desenvolvedor de [sua especialidade] de [seu país]</h3>
