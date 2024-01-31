@@ -10,7 +10,12 @@
 <!-- Banner Image -->
 ![Banner](images/eu_vangogh_wallpaper.webp)
 
-<h1 style="text-align:center"> Hello World!  <br> Eu sou Enzo Bustos</h1>
+
+<h1 style="text-align:center">
+    Hello World! 
+    <br>
+    Eu sou Enzo Bustos
+</h1>
 
 <h2 style="text-align:center"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </h2>
 
