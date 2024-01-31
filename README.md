@@ -1,4 +1,14 @@
 <!-- Contador de Visitantes -->
+
+<a href="https://img.shields.io/github/watchers/enzobustos/enzobustos" style="text-align:center">
+    <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos" />
+</a>
+
+
+<div style="text-align:center">
+    ![GitHub watchers](https://img.shields.io/github/watchers/enzobustos/enzobustos)
+</div>
+
 <div style="text-align : justify">
     ![GitHub watchers](https://img.shields.io/github/watchers/EnzoBustos/EnzoBustos)
 </div>
@@ -10,10 +20,7 @@
 
 <h2 style="text-align:center"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </h2>
 
-<h1 style="text-align:center"> Hello World! Eu sou o Enzo Bustos.</h1>
-
-<h1 align="center">Olá 👋, sou [Seu Nome]</h1>
-<h3 align="center">Um apaixonado desenvolvedor de [sua especialidade] de [seu país]</h3>
+<h2 style="text-align:center"> Made in Brazil 🇧🇷 </h2>
 
 <!-- Sobre Mim -->
 # 🙋‍♂ Sobre Mim
