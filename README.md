@@ -15,6 +15,8 @@
 
 </div>
 
+<h1 align="center"> Hello World! </h1>
+
 <h1 style="text-align: center;"> Hello World! </h1>
 Some content
 
