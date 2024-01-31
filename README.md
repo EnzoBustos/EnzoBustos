@@ -4,17 +4,8 @@
     <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos" />
 </a>
 
-
-<div style="text-align:center">
-    ![GitHub watchers](https://img.shields.io/github/watchers/enzobustos/enzobustos)
-</div>
-
-<div style="text-align : justify">
-    ![GitHub watchers](https://img.shields.io/github/watchers/EnzoBustos/EnzoBustos)
-</div>
-
 <!-- Banner Image -->
-![Banner](images/Eu-VanGogh-HighQuality.png)
+![Banner](images/eu vangogh wallpaper.webp)
 
 <h1 style="text-align:center"> Hello World!  <br> Eu sou Enzo Bustos</h1>
 
