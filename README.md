@@ -8,7 +8,15 @@
 </div>
 
 <!-- Banner Image -->
-![Banner](images/eu_vangogh_wallpaper.webp)
+
+<div align="center">
+
+<img src="images/eu_vangogh_wallpaper.webp">
+
+</div>
+
+<h1 style="text-align: center;"> Hello World! </h1>
+Some content
 
 
 <h1 style="text-align:center">
