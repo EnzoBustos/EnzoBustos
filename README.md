@@ -5,7 +5,7 @@
 </a>
 
 <!-- Banner Image -->
-![Banner](images/eu vangogh wallpaper.webp)
+![Banner](images/eu_vangogh_wallpaper.webp)
 
 <h1 style="text-align:center"> Hello World!  <br> Eu sou Enzo Bustos</h1>
 
