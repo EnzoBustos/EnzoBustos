@@ -1,19 +1,10 @@
 <!-- Contador de Visitantes -->
 <div align="center">
 
+<a href="https://img.shields.io/github/watchers/enzobustos/enzobustos">![GitHub watchers](https://img.shields.io/github/watchers/enzobustos/enzobustos)</a>
 <a href="https://img.shields.io/github/followers/enzobustos
 ">![GitHub followers](https://img.shields.io/github/followers/enzobustos)</a>
-<a href="https://img.shields.io/github/watchers/enzobustos/enzobustos">![GitHub watchers](https://img.shields.io/github/watchers/enzobustos/enzobustos)</a>
 
-</div>
-
-<div align="center">
-<a href="https://img.shields.io/github/watchers/enzobustos/enzobustos" style="text-align:center">
-    <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos">
-</a>
-<a href="https://img.shields.io/github/followers/enzobustos" style="text-align:center">
-    <img src="https://img.shields.io/github/followers/enzobustos">
-</a>
 </div>
 
 <!-- Banner Image -->
