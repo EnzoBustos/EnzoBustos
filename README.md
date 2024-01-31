@@ -1,8 +1,12 @@
 <!-- Contador de Visitantes -->
-
+<div style="text-align:center">
 <a href="https://img.shields.io/github/watchers/enzobustos/enzobustos" style="text-align:center">
-    <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos" />
+    <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos">
 </a>
+<a href="https://img.shields.io/github/followers/enzobustos" style="text-align:center">
+    <img src="https://img.shields.io/github/followers/enzobustos">
+</a>
+</div>
 
 <!-- Banner Image -->
 ![Banner](images/eu_vangogh_wallpaper.webp)
