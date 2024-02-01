@@ -1,3 +1,5 @@
+<h1 align="center"> 🪚 Em Construção ⚙️ </h1>
+
 <!-- Contador de Visitantes -->
 <div align="center">
 
@@ -13,6 +15,14 @@
 
 <img src="images/eu_vangogh_wallpaper.webp">
 
+</div>
+
+<div style="width: 100%;">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<div style="width: 100%;">
+    <img src="teste.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <div align="center" style="font-size:xx-large; font-weight:bold;"> Hello World! </div>

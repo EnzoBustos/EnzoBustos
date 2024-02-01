@@ -1,0 +1,16 @@
+<svg viewBox="0 0 500 500" style="width: 100%; height: 100%;">
+  <rect width="500" height="500" fill="linear-gradient(to right, #60f1b0, #0873b2)">
+    <text x="250" y="250" fill="black" font-size="40px">
+      Hello World!
+    </text>
+    <text x="250" y="300" fill="black" font-size="30px">
+      Eu sou Enzo Bustos
+    </text>
+    <text x="250" y="350" fill="black" font-size="20px">
+      Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial
+    </text>
+    <text x="250" y="400" fill="black" font-size="15px">
+      Made in Brazil 🇧🇷
+    </text>
+  </rect>
+</svg>
