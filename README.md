@@ -79,6 +79,13 @@
 
 <!-- Contribuições e Atividades -->
 # ⚙ Contribuições e Atividades
+
+<div align="center">
+
+![Enzo Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enzobustos&theme=react-dark)
+
+</div>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enzobustos&bg_color=000000&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
 <!-- Seção de Recados -->
