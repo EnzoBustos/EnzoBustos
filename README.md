@@ -15,22 +15,13 @@
 
 </div>
 
-<h1 align="center"> <p> Hello World! </p> </h1>
-<h1 align="center"> Eu sou Enzo Bustos </h1>
+<div align="center" style="font-size:xx-large; font-weight:bold;"> Hello World! </div>
 
-<h1 style="text-align: center;"> Hello World! </h1>
-Some content
+<h1 align="center" style="font-size:xx-large; font-weight:bold;"> Eu sou Enzo Bustos </h1>
 
+<div align="center" style="font-size:large; font-weight:bold;"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </div>
 
-<h1 style="text-align:center">
-    Hello World! 
-    <br>
-    Eu sou Enzo Bustos
-</h1>
-
-<h2 style="text-align:center"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </h2>
-
-<h2 style="text-align:center"> Made in Brazil 🇧🇷 </h2>
+<div align="center" style="font-size:large; font-weight:bold;"> Made in Brazil 🇧🇷 </div>
 
 <!-- Sobre Mim -->
 # 🙋‍♂ Sobre Mim
