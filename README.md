@@ -19,7 +19,7 @@
 
 <h1 align="center" style="font-size:xx-large; font-weight:bold;"> Eu sou Enzo Bustos </h1>
 
-<div align="center" style="font-size:large; font-weight:bold;"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </div>
+<span align="center" style="font-size:large; font-weight:bold;"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </span>
 
 <div align="center" style="font-size:large; font-weight:bold;"> Made in Brazil 🇧🇷 </div>
 
