@@ -66,7 +66,7 @@
 <!-- Estatísticas do GitHub -->
 # 📊 Estatísticas
 
-<div style='text-align: center;'>
+<div align="center">
 
 <a href="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai" />
