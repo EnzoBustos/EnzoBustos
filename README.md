@@ -58,14 +58,12 @@
 # 📊 Estatísticas
 
 <div align="center">
-
-<a href="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzobustos&count_private=true&show_icons=true&theme=monokai" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact" />
-</a>
-
+    <a href="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai">
+        <img src="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai&show_owner=true&text_bold=true">
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact&hide=jupyter%20notebook">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact&hide=jupyter%20notebook">
+    </a>
 </div>
 
 <!-- Contribuições e Atividades -->
