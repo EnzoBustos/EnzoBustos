@@ -1,36 +1,22 @@
-<h1 align="center"> 🪚 Em Construção ⚙️ </h1>
-
-<!-- Contador de Visitantes -->
-<div align="center">
-    <a href="https://img.shields.io/github/watchers/enzobustos/enzobustos.svg">
-        <img src="https://img.shields.io/github/watchers/enzobustos/enzobustos.svg">
-    </a>
-    <a href="https://img.shields.io/github/followers/enzobustos">
-        <img src="https://img.shields.io/github/followers/enzobustos">
-    </a>
-</div>
-
 <!-- Banner Image -->
 
-<div align="center">
-
-<img src="images/eu_vangogh_wallpaper.webp">
-
+<div align="center" style="width: 100%">
+    <img src="images/Capa GitHub.png">
 </div>
-
-<div style="width: 100%;">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
-<div align="center" style="font-size:xx-large; font-weight:bold;"> Hello World! </div>
-
-<h1 align="center" style="font-size:xx-large; font-weight:bold;"> Eu sou Enzo Bustos </h1>
-
-<span align="center" style="font-size:large; font-weight:bold;"> Um desenvolvedor apaixonado por aprendizado de máquina e inteligência artificial </span>
-
-<div align="center" style="font-size:large; font-weight:bold;"> Made in Brazil 🇧🇷 </div>
 
 <!-- Sobre Mim -->
+<h1>👋🏻 About Me</h1>
+
+<ul style="list-style: none;">
+    <li>
+        <span>➡️</span>
+        Item 1
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
 # 🙋‍♂ Sobre Mim
 - 🔭 Atualmente estou trabalhando em **[Nome do Projeto]**
 - 🌱 Atualmente estou aprendendo **[Tecnologia ou Habilidade]**
@@ -61,8 +47,8 @@
     <a href="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai">
         <img src="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai&show_owner=true&text_bold=true">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact&hide=jupyter%20notebook">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact&hide=jupyter%20notebook">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact%20notebook">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact%20notebook">
     </a>
 </div>
 
