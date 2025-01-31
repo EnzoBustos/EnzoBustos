@@ -5,17 +5,49 @@
 </div>
 
 <!-- Sobre Mim -->
-<h1>👋🏻 About Me</h1>
-
-<ul style="list-style: none;">
-    <li>
-        <span>➡️</span>
-        Item 1
-    </li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <!-- Sobre Mim -->
+    <div style="flex: 1; min-width: 300px; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h2 style="margin-bottom: 20px; font-size: 1.5em;">👋🏻 Sobre Mim</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">🔭 Atualmente estou trabalhando em <strong>[Nome do Projeto]</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">🌱 Atualmente estou aprendendo <strong>[Tecnologia ou Habilidade]</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">👯 Estou procurando colaborar em <strong>[Tipo de Projetos]</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">🤝 Estou procurando ajuda com <strong>[Problemas ou Projetos Específicos]</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">💬 Pergunte-me sobre <strong>[Tópico de Interesse]</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">📫 Como me contatar <strong>[seu-email]@example.com</strong></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">📄 Saiba mais sobre minhas experiências <a href="https://your-cv-or-portfolio-link.com" target="_blank">CV or Portfolio</a></li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">⚡ Curiosidade <strong>[Fato Interessante]</strong></li>
+      </ul>
+    </div>
+    <!-- Formas de Contato -->
+    <div style="flex: 1; min-width: 300px; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h2 style="margin-bottom: 20px; font-size: 1.5em;">🌐 Contato</h2>
+      <div style="text-align: center;">
+        <a href="mailto:enzobustos@usp.br" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+        <a href="https://wa.link/e7wh2l" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        </a>
+        <a href="https://discord.com/users/211655235180036096" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+        <a href="https://www.facebook.com/EnzoBustosSilva" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+        </a>
+        <a href="https://github.com/EnzoBustos" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.instagram.com/enzo_.bustos/?theme=dark" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://www.linkedin.com/in/enzo-bustos/" style="display: inline-block; margin: 10px 5px;">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </div>
+    </div>
+  </div>
 
 # 🙋‍♂ Sobre Mim
 - 🔭 Atualmente estou trabalhando em **[Nome do Projeto]**
@@ -43,12 +75,12 @@
 <!-- Estatísticas do GitHub -->
 # 📊 Estatísticas
 
-<div align="center">
+<"center">
     <a href="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai">
         <img src="https://github-readme-stats.vercel.app/api?username=enzobustos&hide_rank=false&show_icons=true&include_all_commits=true&theme=monokai&show_owner=true&text_bold=true">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact%20notebook">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact%20notebook">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobustos&layout=div align=compact">
     </a>
 </div>
 
