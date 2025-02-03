@@ -78,7 +78,7 @@
 # 💻 Setup
 
 <img src="https://img.shields.io/badge/DELL-Vostro_3520-0078D6?style=for-the-badge&logo=DELL&logoColor=white">
-<br>
+
 <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<br>
+
 <img src="https://img.shields.io/badge/NVIDIA-GeForce_MX550-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
